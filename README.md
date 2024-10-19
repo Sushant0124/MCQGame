@@ -26,10 +26,6 @@ The app contains a series of questions where the user selects one answer from a 
 
 To get a local copy of this project up and running, follow these simple steps.
 
-### Prerequisites
-
-You need to have Node.js installed. You can download it from [here](https://nodejs.org/).
-
 ### Installation
 
 1. Clone the repository:
